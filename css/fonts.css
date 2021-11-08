@@ -1,0 +1,38 @@
+@font-face {
+	font-family: 'Fundatzioa';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/MyFontRegular.eot');
+	src: url('../fonts/MyFontRegular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MyFontRegular.woff2') format('woff2'),
+		url('../fonts/MyFontRegular.woff') format('woff'),
+		url('../fonts/MyFontRegular.ttf') format('truetype'),
+		url('../fonts/MyFontRegular.svg#Fundatzioa') format('svg');
+}
+
+@font-face {
+	font-family: 'NeutraText';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../fonts/NeutraText-Book.eot');
+	src: url('../fonts/NeutraText-Book.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/NeutraText-Book.woff2') format('woff2'),
+		url('../fonts/NeutraText-Book.woff') format('woff'),
+		url('../fonts/NeutraText-Book.ttf') format('truetype'),
+		url('../fonts/NeutraText-Book.svg#NeutraText') format('svg');
+}
+
+@font-face {
+	font-family: 'NeutraText';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../fonts/NeutraText-Bold.eot');
+	src: url('../fonts/NeutraText-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/NeutraText-Bold.woff2') format('woff2'),
+		url('../fonts/NeutraText-Bold.woff') format('woff'),
+		url('../fonts/NeutraText-Bold.ttf') format('truetype'),
+		url('../fonts/NeutraText-Bold.svg#NeutraText') format('svg');
+}
